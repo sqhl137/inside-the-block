@@ -1,0 +1,191 @@
+{
+  "cluster": "mainnet",
+  "atISO": "2026-10-27T23:26:49.764Z",
+  "payer": "9MMNXKisTSFqQF1r5pHB9ScdkvVzEGiJun5qpCpwvXwA",
+  "window": {
+    "identity": "5pPRHniefFjkiaArbGX3Y8NUysJmQ9tMZg3FrFGwHzSm",
+    "startSlot": 462254560,
+    "endSlot": 462254563,
+    "slotsUntilStart": 195,
+    "clientHint": "version 4.3.2"
+  },
+  "records": [
+    {
+      "sendIndex": 0,
+      "priorityFeeMicroLamports": 5000,
+      "lamports": 201,
+      "groupId": "B",
+      "sendWallISO": "2026-10-27T23:21:34.115Z",
+      "sendMonoMs": 60873.562,
+      "signature": "4iSuonNHRJHW8mPvVA99aTs3vLmHckzEtiM9NFqTf5mMqGiNBsbwUy7xgeGzWkA5GW6XhkSSSnuV9zpo4km56y2m",
+      "slot": 462254636,
+      "feeLamportsActual": 5015,
+      "error": null,
+      "blockIndex": 185,
+      "blockTxCount": 522
+    },
+    {
+      "sendIndex": 1,
+      "priorityFeeMicroLamports": 10000,
+      "lamports": 202,
+      "groupId": "B",
+      "sendWallISO": "2026-10-27T23:21:34.266Z",
+      "sendMonoMs": 61024.351,
+      "signature": "3x3NcL6sX7KnyeuyNEYhumU6DMtnwL63GvY6kxzbH4NpLjm1u2s4jwT7eKXRsB2EuCQLCLAJWYxeEnUURuQF51cu",
+      "slot": 462254638,
+      "feeLamportsActual": 5030,
+      "error": null,
+      "blockIndex": 81,
+      "blockTxCount": 375
+    },
+    {
+      "sendIndex": 2,
+      "priorityFeeMicroLamports": 15000,
+      "lamports": 203,
+      "groupId": "B",
+      "sendWallISO": "2026-10-27T23:21:34.423Z",
+      "sendMonoMs": 61181.7492,
+      "signature": "3v95HkL7VCgDdXaFX3p6BWyGzCe9TeGh2Ya1J84ikVJtWgswykoNbkyFvQdmVrfTQuHZqe9m8TSPofmb1bJQSQUu",
+      "slot": 462254633,
+      "feeLamportsActual": 5045,
+      "error": null,
+      "blockIndex": 5,
+      "blockTxCount": 392
+    },
+    {
+      "sendIndex": 3,
+      "priorityFeeMicroLamports": 20000,
+      "lamports": 204,
+      "groupId": "B",
+      "sendWallISO": "2026-10-27T23:21:34.580Z",
+      "sendMonoMs": 61338.6738,
+      "signature": "4uyxHDqJ3gstQUHAHCC5Tk4MaRrjUW9EjuSsv3TUfeBiM57k1syC3Rp7HRpzYz4ZxRbfQXxk2g2iL5SFPbSw6bz7",
+      "slot": 462254650,
+      "feeLamportsActual": 5060,
+      "error": null,
+      "blockIndex": 409,
+      "blockTxCount": 502
+    },
+    {
+      "sendIndex": 4,
+      "priorityFeeMicroLamports": 25000,
+      "lamports": 205,
+      "groupId": "B",
+      "sendWallISO": "2026-10-27T23:21:34.720Z",
+      "sendMonoMs": 61478.3866,
+      "signature": "2663KNnHxPh6PP6WvkyaWXdmv9MvprAge9v4ZxB7bjRsQeKFktktrB7uocYHXq9FGU8UzypFtvcP5KBbGPQpskDV",
+      "slot": 462254684,
+      "feeLamportsActual": 5075,
+      "error": null,
+      "blockIndex": 295,
+      "blockTxCount": 604
+    },
+    {
+      "sendIndex": 5,
+      "priorityFeeMicroLamports": 30000,
+      "lamports": 206,
+      "groupId": "B",
+      "sendWallISO": "2026-10-27T23:21:34.876Z",
+      "sendMonoMs": 61634.7142,
+      "signature": "HhHHbJ2mR2GYcdw7zXKHYLiZdfRLoCWHfVMMtkWFQRZgixEDmXUV1xpMYCuQjVaCbGuRW88JPa2g1VZKiAdZ8uV",
+      "slot": 462254684,
+      "feeLamportsActual": 5090,
+      "error": null,
+      "blockIndex": 291,
+      "blockTxCount": 604
+    },
+    {
+      "sendIndex": 6,
+      "priorityFeeMicroLamports": 35000,
+      "lamports": 207,
+      "groupId": "B",
+      "sendWallISO": "2026-10-27T23:21:35.020Z",
+      "sendMonoMs": 61778.1095,
+      "signature": "2JwTQgT3xhEq4w98dALKFEh7bG8nQAcweNnUzyeePcyihtStbHRBZGh3qz44CehroUdbDGGsjQrAARu3D14atJ8a",
+      "slot": 462254653,
+      "feeLamportsActual": 5105,
+      "error": null,
+      "blockIndex": 148,
+      "blockTxCount": 451
+    },
+    {
+      "sendIndex": 7,
+      "priorityFeeMicroLamports": 40000,
+      "lamports": 208,
+      "groupId": "B",
+      "sendWallISO": "2026-10-27T23:21:35.179Z",
+      "sendMonoMs": 61937.5377,
+      "signature": "4eNNeW5H8MBD8g8euYk5FKBJHEXWkVFPtAQyZzfNDSoMgjjRnU5xM6LHHFFu6fdNTVRNRnrYojtXnMfrwByUJ7nn",
+      "slot": 462254649,
+      "feeLamportsActual": 5120,
+      "error": null,
+      "blockIndex": 191,
+      "blockTxCount": 520
+    }
+  ],
+  "stats": [
+    {
+      "groupId": "B",
+      "slot": 462254636,
+      "landed": 1,
+      "pairsTotal": 0,
+      "pairsPreserved": 0,
+      "preservationRate": null,
+      "feePositionSpearman": null
+    },
+    {
+      "groupId": "B",
+      "slot": 462254638,
+      "landed": 1,
+      "pairsTotal": 0,
+      "pairsPreserved": 0,
+      "preservationRate": null,
+      "feePositionSpearman": null
+    },
+    {
+      "groupId": "B",
+      "slot": 462254633,
+      "landed": 1,
+      "pairsTotal": 0,
+      "pairsPreserved": 0,
+      "preservationRate": null,
+      "feePositionSpearman": null
+    },
+    {
+      "groupId": "B",
+      "slot": 462254650,
+      "landed": 1,
+      "pairsTotal": 0,
+      "pairsPreserved": 0,
+      "preservationRate": null,
+      "feePositionSpearman": null
+    },
+    {
+      "groupId": "B",
+      "slot": 462254684,
+      "landed": 2,
+      "pairsTotal": 1,
+      "pairsPreserved": 0,
+      "preservationRate": 0,
+      "feePositionSpearman": null
+    },
+    {
+      "groupId": "B",
+      "slot": 462254653,
+      "landed": 1,
+      "pairsTotal": 0,
+      "pairsPreserved": 0,
+      "preservationRate": null,
+      "feePositionSpearman": null
+    },
+    {
+      "groupId": "B",
+      "slot": 462254649,
+      "landed": 1,
+      "pairsTotal": 0,
+      "pairsPreserved": 0,
+      "preservationRate": null,
+      "feePositionSpearman": null
+    }
+  ]
+}

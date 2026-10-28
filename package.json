@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@scure/bip39": "^2.4.0",
+    "@solana/web3.js": "^1.98.2",
+    "bs58": "^6.0.0",
+    "ed25519-hd-key": "^2.0.0"
+  },
+  "description": "Measurement harness: how do Solana validators order transactions inside a block?",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "name": "inside-the-block",
+  "private": true,
+  "scripts": {
+    "analyze": "tsx src/run.ts analyze",
+    "faucet": "tsx src/run.ts faucet",
+    "probe": "tsx src/run.ts probe",
+    "windows": "tsx src/run.ts windows",
+    "import-key": "tsx src/importkey.ts",
+    "import-seed": "tsx src/importseed.ts"
+  },
+  "type": "module",
+  "version": "0.1.0"
+}

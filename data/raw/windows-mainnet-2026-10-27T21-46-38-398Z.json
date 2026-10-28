@@ -1,0 +1,75 @@
+{
+  "cluster": "mainnet",
+  "atISO": "2026-10-27T21:46:38.371Z",
+  "currentSlot": 462227823,
+  "targets": [
+    {
+      "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "label": "Fd7btgyS",
+      "clientHint": "version 4.3.2"
+    },
+    {
+      "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "label": "HEL1USMZ",
+      "clientHint": "version 4.3.2"
+    },
+    {
+      "identity": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "label": "DRpbCBMx",
+      "clientHint": "version 4.3.2"
+    },
+    {
+      "identity": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+      "label": "E1r4Psq8",
+      "clientHint": "version 4.3.2"
+    },
+    {
+      "identity": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+      "label": "JUPiTERr",
+      "clientHint": "version 26.10.4"
+    },
+    {
+      "identity": "CAo1dCGYrB6NhHh5xb1cGjUiu86iyCfMTENxgHumSve4",
+      "label": "CAo1dCGY",
+      "clientHint": "version 4.3.2"
+    }
+  ],
+  "windows": [
+    {
+      "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "startSlot": 462227832,
+      "endSlot": 462227835,
+      "slotsUntilStart": 9
+    },
+    {
+      "identity": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+      "startSlot": 462227856,
+      "endSlot": 462227859,
+      "slotsUntilStart": 33
+    },
+    {
+      "identity": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "startSlot": 462227860,
+      "endSlot": 462227863,
+      "slotsUntilStart": 37
+    },
+    {
+      "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "startSlot": 462227884,
+      "endSlot": 462227887,
+      "slotsUntilStart": 61
+    },
+    {
+      "identity": "CAo1dCGYrB6NhHh5xb1cGjUiu86iyCfMTENxgHumSve4",
+      "startSlot": 462228108,
+      "endSlot": 462228111,
+      "slotsUntilStart": 285
+    },
+    {
+      "identity": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+      "startSlot": 462228120,
+      "endSlot": 462228123,
+      "slotsUntilStart": 297
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+services:
+  harness:
+    build: .
+    volumes:
+      - ./keys:/keys:ro # keypair JSON lives here, never committed
+      - ./data:/app/data # raw runs, spend ledger, analysis output
+    environment:
+      KEYPAIR_PATH: /keys/keypair.json
+      DATA_DIR: /app/data
+      # RPC_URL: override to use a private endpoint
+    # default command is a DRY-RUN plan; add "--live" explicitly to send:
+    #   docker compose run --rm harness npx tsx src/run.ts probe --cluster devnet --live
+    command: ["npx", "tsx", "src/run.ts", "probe", "--cluster", "devnet"]
